@@ -8,10 +8,10 @@
         "email" : "frgformenton@gmail.com",
 		"url" : "http://felquis.com/"
 	},
-	"licenses": {
+	"licenses": [{
 		"type": "MIT",
 		"url": "http://www.opensource.org/licenses/mit-license.php"
-	},
+	}],
 	"dependencies": {
 		"jquery": ">=1.7"
 	}
